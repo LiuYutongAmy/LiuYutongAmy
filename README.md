@@ -28,10 +28,9 @@
 ## 🧠 About Me
 
 - 🎯 AI Product Manager / Strategy Product 方向探索中
-- 🧩 关注 AI Native 产品、用户需求拆解、业务流程优化与产品策略
-- 🤖 喜欢用 AI 工具辅助调研、原型、文档、Demo 和自动化流程
-- 📊 具备数据分析、指标拆解、问题归因和产品优化建议输出能力
-- ✨ 正在把想法做成更完整、更可体验的 AI 产品 Demo
+- 🤖 专注方向：AI 生成网站 · Openclaw 产品化 · LLM Evaluation
+- 📊 熟悉 Prompt Eng · Content Eng · Harness 工程 · Lora Fine-tune · Agent Workflow
+- ✨ 用 AI 工具提效团队，正在把想法做成更完整、更可体验的 AI 产品 Demo
 
 ---
 
@@ -58,17 +57,13 @@
 ## 🔭 现在在做什么
 
 🟣 **AI 产品方案设计**　![进行中](https://img.shields.io/badge/进行中-7C3AED?style=flat-square)  
-└ 用户场景拆解 · 流程梳理 · 原型设计 · PRD 输出
+└ 用户场景 · 需求拆解 · 原型 PRD · 产品闭环
 
-🔵 **策略产品 & 数据分析**　![持续推进](https://img.shields.io/badge/持续推进-2563EB?style=flat-square)  
-└ 行业调研 · 竞品分析 · 指标体系 · 问题归因
+🔵 **AI 生成网站全模块设计**　![主导落地](https://img.shields.io/badge/主导落地-2563EB?style=flat-square)  
+└ 美观度优化 · 功能路径 · 多轮编辑体验优化
 
-🟢 **Vibe Coding & AI Demo**　![持续落地](https://img.shields.io/badge/持续落地-10B981?style=flat-square)  
-└ Cursor · DeepSeek API · 前端实现 · 在线部署
-
-🟡 **产品表达沉淀**　![长期更新](https://img.shields.io/badge/长期更新-F59E0B?style=flat-square)  
-└ PRD · 产品复盘 · 作品集整理 · AI 工具实践
-
+🟡 **更多 AI 产品方向**　![探索中](https://img.shields.io/badge/探索中-F59E0B?style=flat-square)  
+└ AI 生成 PPT · AI 语音 · AI 渲染地图
 ---
 
 ## 🎮 Featured Projects

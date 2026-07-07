@@ -2,8 +2,6 @@
 
 <br/>
 
-# Building AI-native Products ⚡
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=700&color=7C3AED&center=true&vCenter=true&width=780&lines=AI+Product+Manager;Strategy+Product+Thinking;Prompt+Engineering;Vibe+Coding;AI+Demo+Builder;Data-driven+Product+Insight" alt="Typing SVG" />
 
 ### Amy / 刘昱彤  

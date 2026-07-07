@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=700&color=7C3AED&center=true&vCenter=true&width=780&lines=AI+Product+Manager;Strategy+Product+Thinking;Prompt+Engineering;Vibe+Coding;AI+Demo+Builder;Data-driven+Product+Insight" alt="Typing SVG" />
 
-### Amy Liu / 刘昱彤  
+### Amy / 刘昱彤  
 ### AI Product Manager · Strategy Product · Building with AI
 
 用产品思维拆解 AI 体验，用策略洞察定义产品机会。

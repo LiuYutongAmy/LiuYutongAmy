@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Debra2559.png" width="150" alt="Amy Liu" />
+<img src="https://github.com/LiuYutongAmy.png" width="160" alt="Amy Liu" />
 
 <br/>
 

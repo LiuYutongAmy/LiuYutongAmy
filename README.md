@@ -71,7 +71,7 @@
 
 ### 🧭 求职奥德赛 AI
 
-把“求职”设计成一场可被 AI 陪跑的奥德赛：从职业定位、岗位理解、能力拆解，到简历优化与面试准备，帮助用户穿过信息差、焦虑感和行动混乱。
+把求职设计成一场可被 AI 陪跑的奥德赛：从职业定位、岗位理解、能力拆解，到简历优化与面试准备，帮助用户穿过信息差、焦虑感和行动混乱。
 
 `AI Product` `Career Agent` `JD Matching` `Resume Optimization` `Interview Prep` `Vibe Coding`
 
@@ -84,7 +84,7 @@
 
 ### 🪄 玄鉴 AI 起名器
 
-一个带东方美学表达的 AI 起名与姓名诊断工具，把“八字五行、名字寓意、古诗典故、性格标签”转化为可解释、可对比、可交互的 AI 生成体验。
+一个带东方美学表达的 AI 起名与姓名诊断工具，把“八字五行、名字寓意、古诗典故、性格标签”转化为可解释对比、可交互的 AI 生成体验。
 
 `AI Demo` `Prompt Engineering` `DeepSeek API` `Structured Output` `Product Design`
 
@@ -97,7 +97,7 @@
 
 ### 🗺️ 五幕式交互地图故事网站
 
-一个关于极端热浪、城市韧性与空间公平的交互式数据故事产品，用地图、图表和叙事把复杂的空间分析变成公众与决策者都能理解的可视化体验。
+一个关于极端热浪、城市韧性与空间公平的交互式数据故事产品，用地图、图表和叙事把复杂空间分析变成公众与决策者都能理解的可视化体验。
 
 `GeoAI` `Interactive Map` `Data Visualization` `Spatial Analysis` `Storytelling`
 

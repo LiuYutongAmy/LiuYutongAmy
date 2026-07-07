@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/LiuYutongAmy.png" width="160" alt="Amy Liu" />
-
 <br/>
 
 # Building AI-native Products ⚡

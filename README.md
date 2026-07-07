@@ -64,6 +64,7 @@
 
 🟡 **更多 AI 产品方向**　![探索中](https://img.shields.io/badge/探索中-F59E0B?style=flat-square)  
 └ AI 生成 PPT · AI 语音 · AI 渲染地图
+
 ---
 
 ## 🎮 Featured Projects
